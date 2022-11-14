@@ -16,7 +16,7 @@ module.exports = () => {
     },
     // Output for our bundles
     output: {
-      filename: 'bundle.js',
+      filename: '[name].bundle.js',
       path: path.resolve(__dirname, 'dist'),
     },
     
