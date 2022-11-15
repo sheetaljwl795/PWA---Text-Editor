@@ -5,6 +5,9 @@ JATE is a text editor that runs in the browser. Its a single page application th
 #### Table of Contents
 
 -[Installation](#installation)
+
 -[Usage](#usage)
+
 -[Technologies used] (#technologies used)
+
 -[User story] (#user story)
