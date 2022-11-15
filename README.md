@@ -8,6 +8,6 @@ JATE is a text editor that runs in the browser. Its a single page application th
 
 -[Usage](#usage)
 
--[Technologies used](#technologies used)
+-[Technologies used](#technologiesused)
 
--[User story](#user story)
+-[User story](#userstory)
